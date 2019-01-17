@@ -36,9 +36,14 @@ simulator/TASEP_simulator.exe -c <codonspeedfile> -f <elongationspeed> -n <ORFna
 ```
 the output includes a file \"\<ORFname\>.dat\" containing six columns
 
+1. factor multiplying the codon speeds 
+2. initiation rate
+3. protein synthesis rate
+4. ribosome density
+5. fraction of queuing events
+6. vector of ribosome density per codon
 
-| factor | initiation_rate | protein_synthesis_rate | ribosome_density | fraction_of_queuing_events | vector_of_ribosome_density_per_codon |
-| 6 | 0.01 | 0.00975261 | 0.00187338 | 0.00150791 | [0.000401433,0.00284735,0.00206447,...] |
+
 
 
 ## Authors
