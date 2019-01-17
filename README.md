@@ -50,7 +50,7 @@ the output includes a file \"\<ORFname\>.dat\" containing six columns:
 5. fraction of queuing events
 6. vector of ribosome density per codon
 
-The file examples.txt includes the list of commands to simulate the model of yeast translatome
+The file examples.txt includes the list of commands to simulate the model on the yeast translatome
 
 ## Authors
 
