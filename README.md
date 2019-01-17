@@ -27,9 +27,11 @@ cd ..
 ## Running
 
 Explain how to run the automated tests for this system
+
 ```
 
-simulator/TASEP_simulator.exe
+simulator/TASEP_simulator.exe -c <codonspeedfile> -f <elongationspeed> -n <ORFname> -s <ORFsequence>
+
 
 ```
 
