@@ -8,11 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-g++ compiler is needed. The current version has been tested What things you need to install the software and how to install them
+g++ compiler is needed. The current version has been tested on GCC v4.8.4 and operating system CentOS v7.5.1804
 
-```
-Give examples
-```
 
 ### Installing
 
@@ -23,11 +20,19 @@ cd simulator
 
 make
 
+cd ..
+
 ```
 
 ## Running
 
 Explain how to run the automated tests for this system
+```
+
+simulator/TASEP_simulator.exe
+
+```
+
 
 ### Break down into end to end tests
 
