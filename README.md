@@ -1,6 +1,7 @@
 # Simulation of the inhomogeneous TASEP model
 
-Implementation of inhomogeneous TASEP model, the user can input ORF sequences and the elongation rate of each codon to simulate the ribosome dynamics.
+Implementation of inhomogeneous TASEP model, the user can input ORF sequences and the elongation rate of each codon to simulate the ribosome dynamics. 
+Related to the paper https://www.biorxiv.org/content/early/2018/11/08/465914
 
 ## Getting Started
 
@@ -37,12 +38,6 @@ the output
 
 ## Authors
 
-* **Andrea Riba** - *Initial work*
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Andrea Riba** - https://scholar.google.ch/citations?user=aZ9tkZgAAAAJ&hl=en
 
 
