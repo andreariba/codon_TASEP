@@ -34,16 +34,14 @@ Run the simulation for a specific ORF typing the following command
 simulator/TASEP_simulator.exe -c <codonspeedfile> -f <elongationspeed> -n <ORFname> -s <ORFsequence>
 
 ```
-the output includes a file \"\<ORFname\>.dat\" containing six columns
+the output includes a file \"\<ORFname\>.dat\" containing six columns:
 
-1. factor multiplying the codon speeds 
+1. factor multiplying the codon speeds (default=6)
 2. initiation rate
 3. protein synthesis rate
 4. ribosome density
 5. fraction of queuing events
 6. vector of ribosome density per codon
-
-
 
 
 ## Authors
