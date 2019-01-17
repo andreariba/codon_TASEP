@@ -34,7 +34,7 @@ Explain how to run the automated tests for this system
 simulator/TASEP_simulator.exe -c <codonspeedfile> -f <elongationspeed> -n <ORFname> -s <ORFsequence>
 
 ```
-the output 
+the output includes a file \"<ORFname>.dat\"
 
 ## Authors
 
