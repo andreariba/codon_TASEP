@@ -27,7 +27,7 @@ cd ..
 
 ## Running
 
-Explain how to run the automated tests for this system
+Run the simulation for a specific ORF typing the following command
 
 ```
 
