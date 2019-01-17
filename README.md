@@ -38,7 +38,7 @@ the output includes a file \"\<ORFname\>.dat\" containing six columns
 
 | factor | initiation rate | protein synthesis rate | ribosome density | fraction of queuing events | vector of ribosome density per codon |
 | 6 | 0.01 | 0.00975261 | 0.00187338 | 0.00150791 | [0.000401433,0.00284735,0.00206447, ... ] |
-| --- | --- | --- | --- | --- | --- |
+|---|---|---|---|---|---|
 
 ## Authors
 
