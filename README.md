@@ -17,7 +17,12 @@ g++ compiler is needed. The current version has been tested on GCC v4.8.4 and op
 To compile the program you have to run the following commands:
 
 ```
-cd simulator
+
+git clone git@github.com:andreariba/codon_TASEP.git
+
+cd codon_TASEP/simulator
+
+make clean
 
 make
 
