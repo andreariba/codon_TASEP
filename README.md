@@ -1,7 +1,7 @@
 # Simulation of the inhomogeneous TASEP model
 
 Implementation of inhomogeneous TASEP model, the user can input ORF sequences and the elongation rate of each codon to simulate the ribosome dynamics. 
-Supplementary material related to the following pre-print: https://www.biorxiv.org/content/early/2018/11/08/465914
+Supplementary material related to the following paper: https://www.pnas.org/content/116/30/15023.short
 
 ## Getting Started
 
